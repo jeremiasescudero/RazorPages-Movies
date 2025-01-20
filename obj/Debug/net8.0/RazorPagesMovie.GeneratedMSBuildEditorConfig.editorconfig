@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesMovie
+build_property.RootNamespace = RazorPagesMovie
+build_property.ProjectDir = C:\Users\jerem\OneDrive\Escritorio\Razor Example\RazorPagesMovie\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jerem\OneDrive\Escritorio\Razor Example\RazorPagesMovie
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcTW92aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcTW92aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcTW92aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jerem/OneDrive/Escritorio/Razor Example/RazorPagesMovie/RazorPages-Movies/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UmF6b3JQYWdlcy1Nb3ZpZXNcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iuniy05cbm
